@@ -1,0 +1,171 @@
+,Name,Class(es),Legacy,Lane,Resource,Adaptive,Difficulty
+0,Aatrox,Juggernaut,"['Fighter', 'Tank']",['Top'],Manaless,Physical,2
+1,Ahri,Burst,"['Mage', 'Assassin']",['Middle'],Mana,Magic,2
+2,Akali,Assassin,['Assassin'],"['Top', 'Middle']",Energy,Physical,2
+3,Akshan,Marksman,"['Marksman', 'Assassin']",['Middle'],Mana,Physical,3
+4,Alistar,Tank,"['Tank', 'Support']",['Support'],Mana,Magic,1
+5,Ambessa,Burst,"['Mage', 'Assassin']",['Middle'],Mana,Magic,2
+6,Amumu,Tank,"['Tank', 'Support']","['Jungle', 'Support']",Mana,Magic,1
+7,Anivia,Battlemage,"['Mage', 'Support']",['Middle'],Mana,Magic,3
+8,Annie,Burst,"['Mage', 'Support']",['Middle'],Mana,Magic,1
+9,Aphelios,Marksman,['Marksman'],['Bottom'],Mana,Physical,3
+10,Ashe,Marksman,"['Marksman', 'Support']","['Bottom', 'Support']",Mana,Physical,1
+11,Aurelion Sol,Battlemage,['Mage'],['Middle'],Mana,Magic,3
+12,Aurora,Mage,"['Mage', 'Assassin']","['Middle', 'Top']",Mana,Magic,2
+13,Azir,Specialist,"['Mage', 'Marksman']",['Middle'],Mana,Magic,3
+14,Bard,Catcher,"['Support', 'Mage']",['Support'],Mana,Magic,3
+15,Bel'Veth,Skirmisher,['Fighter'],['Jungle'],Manaless,Physical,2
+16,Blitzcrank,Catcher,"['Tank', 'Support']",['Support'],Mana,Magic,1
+17,Brand,Burst,"['Mage', 'Support']","['Jungle', 'Support', 'Middle']",Mana,Magic,2
+18,Braum,Tank,"['Tank', 'Support']",['Support'],Mana,Magic,2
+19,Briar,Diver,"['Fighter', 'Assassin']",['Jungle'],Frenzy,Physical,2
+20,Caitlyn,Marksman,['Marksman'],['Bottom'],Mana,Physical,1
+21,Camille,Diver,"['Fighter', 'Assassin']","['Top', 'Support']",Mana,Physical,3
+22,Cassiopeia,Battlemage,['Mage'],['Middle'],Mana,Magic,3
+23,Cho'Gath,Specialist,"['Tank', 'Mage']",['Top'],Mana,Magic,1
+24,Corki,Marksman,"['Marksman', 'Mage']",['Middle'],Mana,Physical,2
+25,Darius,Juggernaut,"['Fighter', 'Tank']",['Top'],Mana,Physical,2
+26,Diana,Assassin,"['Fighter', 'Assassin']","['Jungle', 'Middle']",Mana,Magic,1
+27,Dr. Mundo,Juggernaut,"['Tank', 'Fighter']",['Top'],Health resource,Physical,1
+28,Draven,Marksman,['Marksman'],['Bottom'],Mana,Physical,2
+29,Ekko,Assassin,"['Assassin', 'Mage']","['Jungle', 'Middle']",Mana,Magic,3
+30,Elise,Diver,"['Assassin', 'Mage']",['Jungle'],Mana,Magic,2
+31,Evelynn,Assassin,"['Assassin', 'Mage']",['Jungle'],Mana,Magic,2
+32,Ezreal,Marksman,"['Marksman', 'Mage']",['Bottom'],Mana,Physical,1
+33,Fiddlesticks,Specialist,"['Mage', 'Support']",['Jungle'],Mana,Magic,2
+34,Fiora,Skirmisher,"['Fighter', 'Assassin']",['Top'],Mana,Physical,2
+35,Fizz,Assassin,"['Assassin', 'Fighter']",['Middle'],Mana,Magic,2
+36,Galio,Tank,"['Tank', 'Mage']","['Middle', 'Support']",Mana,Magic,2
+37,Gangplank,Specialist,['Fighter'],['Top'],Mana,Physical,3
+38,Garen,Juggernaut,"['Fighter', 'Tank']",['Top'],Manaless,Physical,1
+39,Gnar,Specialist,"['Fighter', 'Tank']",['Top'],Rage,Physical,3
+40,Gragas,Fighter,"['Fighter', 'Mage']","['Jungle', 'Top', 'Middle']",Mana,Magic,2
+41,Graves,Specialist,['Marksman'],['Jungle'],Mana,Physical,2
+42,Gwen,Skirmisher,"['Fighter', 'Assassin']",['Top'],Mana,Magic,2
+43,Hecarim,Diver,"['Fighter', 'Tank']",['Jungle'],Mana,Physical,2
+44,Heimerdinger,Specialist,"['Mage', 'Support']","['Support', 'Top', 'Middle']",Mana,Magic,2
+45,Hwei,Artillery,"['Mage', 'Support']","['Middle', 'Support']",Mana,Magic,3
+46,Illaoi,Juggernaut,"['Fighter', 'Tank']",['Top'],Mana,Physical,2
+47,Irelia,Diver,"['Fighter', 'Assassin']","['Top', 'Middle']",Mana,Physical,2
+48,Ivern,Catcher,"['Support', 'Mage']",['Jungle'],Mana,Magic,3
+49,Janna,Enchanter,"['Support', 'Mage']",['Support'],Mana,Magic,1
+50,Jarvan IV,Diver,"['Fighter', 'Tank']",['Jungle'],Mana,Physical,1
+51,Jax,Skirmisher,"['Fighter', 'Assassin']","['Top', 'Jungle']",Mana,Physical,1
+52,Jayce,Artillery,"['Marksman', 'Fighter']","['Top', 'Middle']",Mana,Physical,2
+53,Jhin,Marksman,"['Marksman', 'Mage']",['Bottom'],Mana,Physical,2
+54,Jinx,Marksman,['Marksman'],['Bottom'],Mana,Physical,2
+55,K'Sante,Skirmisher,"['Tank', 'Fighter']",['Top'],Mana,Physical,3
+56,Kai'Sa,Marksman,"['Marksman', 'Mage']",['Bottom'],Mana,Magic,2
+57,Kalista,Marksman,['Marksman'],['Bottom'],Mana,Physical,3
+58,Karma,Burst,"['Mage', 'Support']","['Middle', 'Support', 'Top']",Mana,Magic,1
+59,Karthus,Battlemage,['Mage'],['Jungle'],Mana,Magic,2
+60,Kassadin,Assassin,"['Assassin', 'Mage']",['Middle'],Mana,Magic,2
+61,Katarina,Assassin,"['Assassin', 'Mage']",['Middle'],Manaless,Magic,2
+62,Kayle,Specialist,"['Mage', 'Marksman']",['Top'],Mana,Physical,2
+63,Kayn,Skirmisher,"['Fighter', 'Assassin']",['Jungle'],Mana,Physical,2
+64,Kennen,Specialist,"['Mage', 'Marksman']",['Top'],Energy,Magic,2
+65,Kha'Zix,Assassin,['Assassin'],['Jungle'],Mana,Physical,2
+66,Kindred,Marksman,['Marksman'],['Jungle'],Mana,Physical,3
+67,Kled,Skirmisher,"['Fighter', 'Tank']",['Top'],Courage,Physical,2
+68,Kog'Maw,Marksman,"['Marksman', 'Mage']",['Bottom'],Mana,Physical,2
+69,LeBlanc,Burst,"['Assassin', 'Mage']",['Middle'],Mana,Magic,2
+70,Lee Sin,Diver,"['Fighter', 'Assassin']",['Jungle'],Energy,Physical,2
+71,Leona,Tank,"['Tank', 'Support']",['Support'],Mana,Physical,1
+72,Lillia,Skirmisher,"['Fighter', 'Mage']",['Jungle'],Mana,Magic,3
+73,Lissandra,Burst,['Mage'],['Middle'],Mana,Magic,2
+74,Lucian,Marksman,"['Marksman', 'Assassin']",['Bottom'],Mana,Physical,2
+75,Lulu,Enchanter,"['Support', 'Mage']",['Support'],Mana,Magic,2
+76,Lux,Burst,"['Mage', 'Support']","['Middle', 'Support']",Mana,Magic,1
+77,Malphite,Tank,"['Tank', 'Mage']","['Top', 'Middle', 'Support']",Mana,Magic,1
+78,Malzahar,Battlemage,"['Mage', 'Assassin']",['Middle'],Mana,Magic,1
+79,Maokai,Tank,"['Tank', 'Support']","['Support', 'Jungle']",Mana,Magic,1
+80,Master Yi,Skirmisher,"['Assassin', 'Fighter']",['Jungle'],Mana,Physical,1
+81,Mel,Burst,"['Mage', 'Assassin']",['Middle'],Mana,Magic,2
+82,Milio,Enchanter,"['Support', 'Mage']",['Support'],Mana,Magic,1
+83,Miss Fortune,Marksman,"['Marksman', 'Mage']",['Bottom'],Mana,Physical,1
+84,Mordekaiser,Juggernaut,"['Fighter', 'Mage']",['Top'],Shield,Magic,2
+85,Morgana,Catcher,"['Mage', 'Support']",['Support'],Mana,Magic,1
+86,Naafiri,Assassin,"['Assassin', 'Fighter']",['Middle'],Mana,Physical,1
+87,Nami,Enchanter,"['Support', 'Mage']",['Support'],Mana,Magic,2
+88,Nasus,Juggernaut,"['Fighter', 'Tank']",['Top'],Mana,Physical,1
+89,Nautilus,Tank,"['Tank', 'Support']",['Support'],Mana,Magic,2
+90,Neeko,Burst,"['Mage', 'Support']","['Middle', 'Support']",Mana,Magic,1
+91,Nidalee,Specialist,"['Assassin', 'Mage']",['Jungle'],Mana,Magic,2
+92,Nilah,Skirmisher,"['Fighter', 'Assassin']",['Bottom'],Mana,Physical,3
+93,Nocturne,Assassin,"['Fighter', 'Assassin']",['Jungle'],Mana,Physical,1
+94,Nunu & Willump,Tank,"['Tank', 'Mage']",['Jungle'],Mana,Magic,1
+95,Olaf,Diver,"['Fighter', 'Tank']",['Top'],Mana,Physical,1
+96,Orianna,Burst,"['Mage', 'Support']",['Middle'],Mana,Magic,2
+97,Ornn,Tank,"['Tank', 'Fighter']",['Top'],Mana,Physical,2
+98,Pantheon,Diver,"['Fighter', 'Assassin']","['Top', 'Support', 'Jungle', 'Middle']",Mana,Physical,1
+99,Poppy,Tank,"['Tank', 'Fighter']","['Top', 'Jungle']",Mana,Physical,2
+100,Pyke,Assassin,"['Support', 'Assassin']",['Support'],Mana,Physical,2
+101,Qiyana,Assassin,"['Assassin', 'Fighter']",['Middle'],Mana,Physical,3
+102,Quinn,Specialist,"['Marksman', 'Assassin']",['Top'],Mana,Physical,2
+103,Rakan,Catcher,['Support'],['Support'],Mana,Magic,2
+104,Rammus,Tank,"['Tank', 'Fighter']",['Jungle'],Mana,Physical,1
+105,Rek'Sai,Diver,"['Fighter', 'Tank']",['Jungle'],Rage,Physical,2
+106,Rell,Tank,"['Tank', 'Support']",['Support'],Mana,Magic,2
+107,Renata Glasc,Enchanter,"['Support', 'Mage']",['Support'],Mana,Magic,2
+108,Renekton,Diver,"['Fighter', 'Tank']",['Top'],Fury,Physical,1
+109,Rengar,Assassin,"['Assassin', 'Fighter']","['Jungle', 'Top']",Ferocity,Physical,2
+110,Riven,Skirmisher,"['Fighter', 'Assassin']",['Top'],Manaless,Physical,2
+111,Rumble,Battlemage,"['Fighter', 'Mage']","['Top', 'Middle']",Heat,Magic,2
+112,Ryze,Battlemage,"['Mage', 'Fighter']",['Middle'],Mana,Magic,2
+113,Samira,Marksman,"['Marksman', 'Assassin']",['Bottom'],Mana,Physical,2
+114,Sejuani,Tank,"['Tank', 'Fighter']",['Jungle'],Mana,Magic,2
+115,Senna,Marksman,"['Support', 'Marksman']","['Bottom', 'Support']",Mana,Physical,2
+116,Seraphine,Support,"['Support', 'Mage']","['Bottom', 'Support']",Mana,Magic,1
+117,Sett,Juggernaut,"['Fighter', 'Tank']",['Top'],Grit,Physical,2
+118,Shaco,Assassin,['Assassin'],"['Jungle', 'Support']",Mana,Physical,2
+119,Shen,Tank,['Tank'],"['Top', 'Support']",Energy,Physical,2
+120,Shyvana,Juggernaut,"['Fighter', 'Mage']",['Jungle'],Fury,Physical,1
+121,Singed,Specialist,"['Tank', 'Mage']",['Top'],Mana,Magic,2
+122,Sion,Tank,"['Tank', 'Fighter']",['Top'],Mana,Physical,1
+123,Sivir,Marksman,['Marksman'],['Bottom'],Mana,Physical,2
+124,Skarner,Tank,"['Tank', 'Fighter']","['Jungle', 'Top']",Mana,Physical,2
+125,Smolder,Marksman,"['Marksman', 'Mage']","['Bottom', 'Top', 'Middle']",Mana,Physical,2
+126,Sona,Enchanter,"['Support', 'Mage']",['Support'],Mana,Magic,1
+127,Soraka,Enchanter,"['Support', 'Mage']",['Support'],Mana,Magic,1
+128,Swain,Battlemage,"['Mage', 'Support']","['Support', 'Middle']",Mana,Magic,2
+129,Sylas,Burst,"['Mage', 'Assassin']","['Middle', 'Top']",Mana,Magic,3
+130,Syndra,Burst,['Mage'],['Middle'],Mana,Magic,2
+131,Tahm Kench,Tank,"['Tank', 'Support']","['Top', 'Support']",Mana,Magic,1
+132,Taliyah,Battlemage,"['Mage', 'Support']","['Jungle', 'Middle']",Mana,Magic,2
+133,Talon,Assassin,['Assassin'],"['Middle', 'Jungle']",Mana,Physical,2
+134,Taric,Enchanter,"['Support', 'Tank']","['Support', 'Middle']",Mana,Physical,2
+135,Teemo,Specialist,"['Marksman', 'Mage']","['Top', 'Jungle', 'Support']",Mana,Physical,1
+136,Thresh,Catcher,"['Support', 'Tank']",['Support'],Mana,Physical,3
+137,Tristana,Marksman,"['Marksman', 'Assassin']","['Bottom', 'Middle']",Mana,Physical,1
+138,Trundle,Juggernaut,"['Fighter', 'Tank']","['Top', 'Jungle']",Mana,Physical,1
+139,Tryndamere,Skirmisher,"['Fighter', 'Assassin']",['Top'],Fury,Physical,1
+140,Twisted Fate,Burst,"['Mage', 'Marksman']","['Middle', 'Bottom', 'Top']",Mana,Magic,2
+141,Twitch,Marksman,"['Marksman', 'Assassin']","['Bottom', 'Support']",Mana,Physical,2
+142,Udyr,Juggernaut,"['Fighter', 'Tank']","['Top', 'Jungle']",Mana,Physical,1
+143,Urgot,Juggernaut,"['Fighter', 'Tank']",['Top'],Mana,Physical,2
+144,Varus,Marksman,"['Marksman', 'Mage']",['Bottom'],Mana,Physical,2
+145,Vayne,Marksman,"['Marksman', 'Assassin']","['Bottom', 'Top']",Mana,Physical,2
+146,Veigar,Burst,['Mage'],"['Middle', 'Support']",Mana,Magic,2
+147,Vel'Koz,Artillery,"['Mage', 'Support']","['Support', 'Middle']",Mana,Magic,2
+148,Vex,Burst,['Mage'],['Middle'],Mana,Magic,2
+149,Vi,Diver,"['Fighter', 'Assassin']",['Jungle'],Mana,Physical,1
+150,Viego,Skirmisher,"['Fighter', 'Assassin']",['Jungle'],Manaless,Physical,3
+151,Viktor,Battlemage,['Mage'],['Middle'],Mana,Magic,3
+152,Vladimir,Battlemage,"['Mage', 'Fighter']","['Middle', 'Top']",Crimson rush,Magic,2
+153,Volibear,Juggernaut,"['Fighter', 'Tank']","['Top', 'Jungle']",Mana,Physical,1
+154,Warwick,Diver,"['Fighter', 'Tank']","['Jungle', 'Top']",Mana,Physical,1
+155,Wukong,Diver,"['Fighter', 'Tank']","['Jungle', 'Top']",Mana,Physical,1
+156,Xayah,Marksman,['Marksman'],['Bottom'],Mana,Physical,2
+157,Xerath,Artillery,"['Mage', 'Support']","['Middle', 'Support']",Mana,Magic,2
+158,Xin Zhao,Diver,"['Fighter', 'Tank']",['Jungle'],Mana,Physical,1
+159,Yasuo,Skirmisher,"['Fighter', 'Assassin']","['Top', 'Middle', 'Bottom']",Flow,Physical,3
+160,Yone,Assassin,"['Fighter', 'Assassin']","['Top', 'Middle']",Flow,Physical,3
+161,Yorick,Juggernaut,"['Fighter', 'Tank']",['Top'],Mana,Physical,2
+162,Yuumi,Enchanter,"['Support', 'Mage']",['Support'],Mana,Magic,1
+163,Zac,Tank,"['Tank', 'Fighter']","['Jungle', 'Top', 'Support']",Health resource,Magic,1
+164,Zed,Assassin,['Assassin'],"['Middle', 'Jungle']",Energy,Physical,3
+165,Zeri,Marksman,['Marksman'],['Bottom'],Mana,Physical,2
+166,Ziggs,Artillery,['Mage'],"['Bottom', 'Middle']",Mana,Magic,2
+167,Zilean,Specialist,"['Support', 'Mage']",['Support'],Mana,Magic,2
+168,Zoe,Burst,"['Mage', 'Support']",['Middle'],Mana,Magic,3
+169,Zyra,Catcher,"['Mage', 'Support']",['Support'],Mana,Magic,2
