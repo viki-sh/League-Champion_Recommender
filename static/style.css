@@ -1,0 +1,58 @@
+body {
+  background-image: url("/static/background_image3.jpg");
+  background-size: cover;             /* Fill the screen */
+  background-position: center center; /* Center it */
+  background-repeat: no-repeat;       /* No repeating */
+  background-attachment: fixed;       /* Optional: locks image while scrolling */
+  image-rendering: auto;  /* Let the browser handle best scaling */
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  color: white;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.container {
+  margin-top: 500px; /* space above it */
+  text-align: center;
+}
+
+h1 { 
+  font-size: 40px; /* adjust as you like */
+  font-family: 'Poppins', sans-serif; /* or any font you prefer */
+  font-weight: 600; /* optional: boldness */
+  margin-bottom: 20px; /* space below it */
+}
+
+input {
+  padding: 10px;
+  margin: 10px 0;
+  width: 50%;
+  border: none;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #1e90ff;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #3ea0ff;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 8px 0;
+  background: #1b2a3d;
+  padding: 10px;
+  border-radius: 6px;
+}
